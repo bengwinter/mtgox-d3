@@ -1,4 +1,9 @@
 #container {
-	margin: auto;
-	text-align: center;
+  margin: auto;
+  text-align: center;
+}
+
+#volume-wrapper {
+  margin: auto;
+  text-align: center;
 }
